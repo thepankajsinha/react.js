@@ -5,6 +5,9 @@ import NikolaTesla from "./assets/NikolaTesla.jpeg"
 import AlexanderFleming from "./assets/AlexanderFleming.jpg"
 import AlbertEinstein from "./assets/AlbertEinstein.jpg"
 import './App.css'
+
+//Props are used to transfer data from parent to child components
+//Here, App component is a parent component that transfer data to child component
 function App() {
 
   return (

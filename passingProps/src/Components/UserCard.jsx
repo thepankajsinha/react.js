@@ -1,6 +1,7 @@
 import React from 'react'
 import "./UserCard.css"
 
+//Here, UserCard is a child component that receives data from the parent component App()
 const UserCard = (props) => {
   return (
     <div className='user-container'>
