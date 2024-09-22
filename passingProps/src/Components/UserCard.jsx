@@ -4,9 +4,9 @@ import "./UserCard.css"
 const UserCard = (props) => {
   return (
     <div className='user-container'>
-      <h2 id='title'>{props.name}</h2>
+      <h2>{props.name}</h2>
       <img id="user-img"src={props.image}/>
-      <p id='user-desc'>{props.description}</p>
+      <p>{props.description}</p>
     </div>
   )
 }
