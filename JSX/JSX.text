@@ -1,0 +1,5 @@
+What is JSX:
+
+1.JSX stands for JavaScript XML.
+
+2.JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() or appendChild() methods.
