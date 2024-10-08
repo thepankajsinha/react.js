@@ -1,0 +1,4 @@
+What is component:
+
+1.A function returning JSX is called component.
+2.Component must start with upper case letter.
