@@ -9,8 +9,8 @@ function App() {
 	return (
 		<div className="App">
 
-      {<h2>{inp}</h2>}
-      <button onClick={handleClick}>Click me!</button> 
+		      {<h2>{inp}</h2>}
+		      <button onClick={handleClick}>Click me!</button> 
 
 		</div>
 	);
