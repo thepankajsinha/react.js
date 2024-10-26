@@ -1,8 +1,9 @@
-# React + Vite
+Before click
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-10-26 090339](https://github.com/user-attachments/assets/63028352-2027-4202-9839-2cc0832e882d)
+![Screenshot 2024-10-26 090422](https://github.com/user-attachments/assets/bc9fec98-120d-49fc-b551-2c48ad6344a8)
 
-Currently, two official plugins are available:
+After click
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-10-26 090355](https://github.com/user-attachments/assets/6504cd53-28bb-4453-9b97-10f17b741e67)
+![Screenshot 2024-10-26 090444](https://github.com/user-attachments/assets/bc43d3d2-c2b4-4fe5-863c-e8934fc31fca)
